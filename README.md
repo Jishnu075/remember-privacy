@@ -2,7 +2,7 @@
 
 This repository hosts the privacy policy for **Remember**, an iOS app by Jeibee.
 
-**Read the policy:** https://YOUR-USERNAME.github.io/remember-privacy/
+**Read the policy:** [https://jishnu075.github.io/remember-privacy/](https://jishnu075.github.io/remember-privacy/)
 
 ## What is here
 
