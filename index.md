@@ -1,8 +1,3 @@
----
-layout: default
-title: Remember Privacy Policy
----
-
 # Privacy Policy for Remember
 
 Effective date: 2026-10-20
